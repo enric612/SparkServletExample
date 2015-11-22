@@ -5,7 +5,7 @@
    <filter-class>spark.servlet.SparkFilter</filter-class>
    <init-param>
      <param-name>applicationClass</param-name>
-     <param-value>com.simonrice.sparkservletexample.HelloWorld</param-value>
+     <param-value>cat.enric612.sparkjava.exemple.Main</param-value>
    </init-param>
  </filter>
 
